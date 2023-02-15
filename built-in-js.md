@@ -6,7 +6,7 @@ functionality that JavaScript provides for each of these 4 data structures.
 
 # 1: Arrays
 
-The most common data structure for a list of data in JS is array. The abil
+The most common data structure for a list of data in JS is array.
 
 1. Arrays can accept any type of data.
 2. Elements always are accesible via their index.
@@ -41,7 +41,7 @@ Another data structure for a list of data in JavaScript is sets. Sets have the f
 5. The insertation is not memorized.
 6. Since the order is not matter in Sets, The cost of the finding and deleting an element is low.
 7. Deletion an element is a fast action in Sets. Cause the elements do not have position in a first place So
-   they do not need change their indexs.
+   they do not need change their indexes.
 
 ```js
 // create a new array:
